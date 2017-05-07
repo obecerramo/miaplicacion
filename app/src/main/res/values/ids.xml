@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textNombre" type="id">nombre</item>
+    <item name="testApellido" type="id">apellido</item>
+    <item name="textCedula" type="id">cedula</item>
+    <item name="textMedico" type="id">medico</item>
+</resources>
